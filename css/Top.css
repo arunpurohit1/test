@@ -1,0 +1,22 @@
+body {
+
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    background-color: black;
+    color: wheat;
+}
+
+p{
+
+    font-size: 30px;
+}
+
+h1{
+
+    font-size: 45px;
+}
+
+h2{
+
+    font-size: 32px;
+}

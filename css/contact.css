@@ -1,0 +1,13 @@
+body{
+
+    background-color: black;
+}
+
+.rate{
+
+    display: flex;
+    text-align: center;
+    border: 1px black solid;
+    flex-direction: column;
+    color: white;
+}

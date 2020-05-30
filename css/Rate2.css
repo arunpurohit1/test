@@ -1,0 +1,13 @@
+body{
+
+   font-family: 'Sansita', sans-serif;
+   background-image: url("../image/Rating.jpg");
+   background-position: center center;
+   background-size: cover;
+   height: 100vh;
+   position: relative;
+   z-index: 1;
+   color: black;
+   text-align: center;
+
+}
