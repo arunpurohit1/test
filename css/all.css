@@ -6,7 +6,7 @@ body{
 
 .home{
 
-    background-image: url("https://arunpurohit1.github.io/assessment-project-1/image/front.jpg");
+    background-image: url("image/front.jpg");
     background-position: center center;
     background-size: cover;
     height: 100vh;
